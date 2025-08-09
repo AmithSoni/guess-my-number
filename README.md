@@ -59,7 +59,7 @@ guess-my-number/
 ## 💡 How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/your-username/guess-my-number.git
+   git clone https://github.com/AmithSoni/guess-my-number.git
 
 2. Open index.html in your browser.
 
