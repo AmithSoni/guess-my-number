@@ -44,7 +44,7 @@ Built using **HTML**, **CSS**, and **JavaScript** to practice DOM manipulation, 
 
 ## 🚀 Live Demo
 
-🔗 [**Play the Game Here**](https://your-live-demo-link.com)  
+🔗 [**Play the Game Here**](https://amithsoni.github.io/guess-my-number/)  
 
 ---
 
@@ -53,9 +53,6 @@ guess-my-number/
 │── index.html
 │── style.css
 │── script.js
-│── screenshot.png
-└── README.md
-
 
 ---
 
